@@ -1,2 +1,4 @@
 *.js
 .envrc
+.serverless/
+node_modules/

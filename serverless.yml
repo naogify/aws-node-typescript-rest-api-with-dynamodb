@@ -1,6 +1,6 @@
-service: aws-node-typescript-rest-api-with-dynamodb
+service: aws-rest-api-with-dynamodb
 
-frameworkVersion: ">=1.1.0 <2.0.0"
+frameworkVersion: ">=1.1.0 <2.20.0"
 
 provider:
   name: aws
